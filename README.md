@@ -16,18 +16,6 @@ A modern e-commerce website for indoor plant sales built with React, TypeScript,
 - **State Management**: React Context API, React Query
 - **Routing**: React Router DOM
 
-
-## 📁 Project Structure
-
-```
-src/
-├── components/     # UI components
-├── contexts/       # State management
-├── pages/          # Route components
-├── hooks/          # Custom hooks
-└── lib/           # Utilities
-```
-
 ## 🔗 Pages
 
 - **Home**: Landing page with featured products
