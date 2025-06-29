@@ -27,3 +27,4 @@ A modern e-commerce website for indoor plant sales built with React, TypeScript,
 ---
 
 **Built with React, TypeScript, and Tailwind CSS**
+**To be integrated with Shopify APIs for product and account features**
